@@ -1,0 +1,9 @@
+LICENSE
+pyproject.toml
+setup.cfg
+src/nvwec/__init__.py
+src/nvwec/nftcon.py
+src/nvwec.egg-info/PKG-INFO
+src/nvwec.egg-info/SOURCES.txt
+src/nvwec.egg-info/dependency_links.txt
+src/nvwec.egg-info/top_level.txt
